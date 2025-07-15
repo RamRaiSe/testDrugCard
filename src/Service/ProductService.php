@@ -8,7 +8,7 @@ class ProductService
 
     public function __construct(string $filePath = null)
     {
-        $this->filePath = $filePath ?? __DIR__ . '/../../../resource/products.csv';
+        $this->filePath = $filePath ?? __DIR__ . '/../../resource/products.csv';
     }
 
     public function writeToCsv(array $data): void
