@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9461e691-7709-4ec9-8601-d3d9b5545f93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/nginx/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Command/ParseProductsCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Message/ProductMessage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageHandler/ProductMessageHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/ProductFetcher.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/ProductParser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Service/ProductService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/MessageHandler/ProductMessageHandlerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Service/ProductServiceTest.php" afterDir="false" />
-    </list>
+    <list default="true" id="9461e691-7709-4ec9-8601-d3d9b5545f93" name="Changes" comment="test task Drug Card" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,11 +184,24 @@
       <option name="presentableId" value="Default" />
       <updated>1752432323444</updated>
       <workItem from="1752432324498" duration="21267000" />
-      <workItem from="1752581117183" duration="1491000" />
+      <workItem from="1752581117183" duration="1836000" />
     </task>
+    <task id="LOCAL-00001" summary="test task Drug Card">
+      <option name="closed" value="true" />
+      <created>1752582878472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752582878473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test task Drug Card" />
+    <option name="LAST_COMMIT_MESSAGE" value="test task Drug Card" />
   </component>
 </project>
