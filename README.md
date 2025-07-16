@@ -11,3 +11,6 @@ docker compose exec app php bin/console messenger:consume async -vv
 docker compose exec app php bin/console app:parse-products
 
 docker compose exec app ./vendor/bin/phpunit
+
+
+http://localhost:8000/api/products
